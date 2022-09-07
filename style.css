@@ -3,4 +3,9 @@ body {
 }
 img {
     float:left;
+    margin: 5px;
+}
+.welcome {
+    text-align: justify;
+    
 }
